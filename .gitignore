@@ -3,4 +3,3 @@
 *.pth
 *.npz
 *.pyc
-/Model/__pycache__
