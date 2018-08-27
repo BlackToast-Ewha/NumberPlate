@@ -77,7 +77,7 @@ def get_training_model():
     7 * len(common.CHARS) vector, `v`. `v[0]` is the probability that a plate is
     fully within the image and is at the correct scale.
     
-    `v[1 + i * len(common.CHARS) + c]` is the probability that the `i`'th
+    `v[1 + i * len(common.CHARS) + c]` is the probability that the `i`'thu
     character is `c`.
     """
     x, conv_layer, conv_vars = convolutional_layers()
