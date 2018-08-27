@@ -1,2 +1,5 @@
-/*.zip
-/Model/.idea
+*.xml
+*.iml
+*.pth
+*.npz
+*.pyc
